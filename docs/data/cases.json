@@ -512,6 +512,14 @@
             "opensource": "",
             "qrcode": "https://user-images.githubusercontent.com/10415021/54965586-22e65380-4fac-11e9-8423-725f52978657.jpg",
             "company": "北京书礼行知文化传媒有限公司"
+        },
+        {
+            "name": "玉帛书",
+            "email": "853687760@qq.com",
+            "link": "http://www.wutuobangxinyougou.com",
+            "opensource": "https://github.com/liubin1592/yuboshu",
+            "qrcode": "https://camo.githubusercontent.com/91c0a3edfe784887b01af9a04d581d6ba152dfd9/68747470733a2f2f7777772e777574756f62616e6778696e796f75676f752e636f6d2f7075626c69632f696d616765732f71722e6a7067",
+            "company": "新乡芝麻电子科技有限公司"
         }
     ]
 }
